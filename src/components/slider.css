@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: "Crimson Text", serif;
+    font-family: "Ubuntu", sans-serif;
+  }
+  h3{
+      color:white;
+  }
+  
+  .intro{ 
+      filter:brightness(80%);
+  }
+  .intro .carousel-caption p{
+      color: #fff;
+      font-weight: bold;
+      font-size: 20px;
+  }
+  .intro .carousel-caption h3{
+    text-transform: uppercase;
+  }
+
+  .carousel-item {
+      
+      transition: opacity 1s ease-in-out;
+  
+  }
+  
